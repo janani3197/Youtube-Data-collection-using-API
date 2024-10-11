@@ -1,6 +1,5 @@
 # Youtube-Data-collection-using-API
 
-YouTube Video Data Fetcher
 This script allows you to search for YouTube videos based on a specific query, retrieve their comments, download and traslate the transcripts in English (if available), and save the data into an Excel file. The script is useful for analyzing YouTube content, comments, and video metadata.
 
 Prerequisites
